@@ -1,0 +1,1 @@
+df[df['salary'] == '>50K']['native-country'].value_counts / df['native-country'].value_counts()
